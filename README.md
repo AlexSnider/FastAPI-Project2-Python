@@ -16,9 +16,9 @@ O que você (ALEX) achou do primeiro contato com FastAPI?<br/><br/>
 R: Sendo honesto, massivo, e ao mesmo tempo, imersivo! Pq?<br/><br/>
    Bom, digamos que minha base de python não é solidificada, o que trouxe alguns desafios extras.
    Em muitos momentos do curso, erros foram surgindo dos quais eu não tinha a menor ideia de como resolver, principalmente com dependências na imagem dos container no Docker.
-   Todos esses erros foram corrigidos por mim com muita investigação e aprofundamento dos processos de cada funcionalidade.
+   Eventualmente, descobri como resolver esses erros com muita investigação e aprofundamento dos processos de cada funcionalidade.
    Pude operar pela primeira vez com WSL e também em um ambiente virtual (Poetry Shell) para dar início ao projeto.
-   Docker, TDD e PostgreeSQL foi uma novidade total! Nunca antes soube de tais ferramentas. Com certeza continuarei a estudar.
+   Docker, TDD e PostgreeSQL foram uma novidade total! Nunca antes soube de tais ferramentas. Com certeza continuarei a estudar.
 
 Assim, dou por concluído essa imersão em FastAPI e carregarei esse conhecimento adiante com novos projetos!
 
