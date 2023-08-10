@@ -9,7 +9,7 @@ Projeto baseado em construir uma API com GET, POST, PUT e DELETE utilizando Poet
 
 Projeto concluído - Todos os testes passaram.
 
-O que restou a ser feito?
+O que restou a ser feito?<br/><br/>
 R: Polimento do código e otimizações. Implementarei aos poucos.
 
 O que você (ALEX) achou do primeiro contato com FastAPI?<br/><br/>
