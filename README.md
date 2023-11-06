@@ -21,5 +21,3 @@ R: Sendo honesto, massivo, e ao mesmo tempo, imersivo! Pq?<br/><br/>
    Docker, TDD e PostgreeSQL foram uma novidade total! Nunca antes soube de tais ferramentas. Com certeza continuarei a estudar.
 
 Assim, dou por concluído essa imersão em FastAPI e carregarei esse conhecimento adiante com novos projetos!
-
-***Documentação da aplicação em breve...***
